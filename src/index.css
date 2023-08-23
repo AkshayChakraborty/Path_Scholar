@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card-bg{
+  background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('./Pages/user_dashboard.jpg');
+  background-position: center;
+  background-size: 100% 120px;
+  /* height: 600px; */
+  /* width: 100%; */
+  /* background-attachment: fixed; */
+  background-size: cover;
+  color: white;
+}
